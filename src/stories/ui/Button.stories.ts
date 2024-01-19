@@ -41,6 +41,12 @@ export const Primary: Story = {
     children: "Wow",
   },
 };
+export const AnotherOne: Story = {
+  args: {
+    variant: "default",
+    children: "Wow",
+  },
+};
 
 export const Secondary: Story = {
   args: {
